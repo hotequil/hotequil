@@ -1,10 +1,14 @@
 ### Hello, guys!
 
+## My name is João Paulo Hotequil, i'm a front-end developer. 
+
 We're together in this magic programming world, creating, working hard and transforming the life of others people,through practical, objective and quick solutions.
 
-In my life, i like:
+# In my life, i like:
 
 > Ideas and only ideas can illuminate the darkness. (Ludwig von Mises)
+
+# Programming is:
 
 ![Tenor GIF](https://media.tenor.com/images/cdda4d937ceb893c7c6ce3963d55f4b2/tenor.gif)
 
