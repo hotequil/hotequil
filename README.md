@@ -1,4 +1,4 @@
-# Hello, guys :hand:!
+# Hello world :hand:!
 
 ### :man: I'm a front-end developer and:
 
