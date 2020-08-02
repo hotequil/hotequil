@@ -1,5 +1,4 @@
-# Hello, guys!
-## My name is João Paulo Hotequil.
+# Hello, guys :hand:!
 
 ### I'm a front-end developer and: 
 
