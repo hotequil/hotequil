@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, guys!
+
+![Recordit GIF](https://media.tenor.com/images/cdda4d937ceb893c7c6ce3963d55f4b2/tenor.gif)
 
 <!--
 **hotequil/hotequil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
