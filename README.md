@@ -16,7 +16,7 @@ We are together in this magical world of programming, creating, working hard and
 
 ### :fire: I'd define the programming like this:
 
-![Tenor GIF](https://media.tenor.com/images/cdda4d937ceb893c7c6ce3963d55f4b2/tenor.gif)
+![Tenor GIF](https://media1.tenor.com/images/4faafe42aa7265478a8e9ad509e9a6fe/tenor.gif)
 
 > Ideas and only ideas can illuminate the darkness. (Ludwig von Mises)
 
