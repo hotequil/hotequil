@@ -4,8 +4,6 @@
 
 We are together in this magical world of programming, creating, working hard and transforming other people's lives, through practical, objective and quick solutions.
 
-![Hotequil's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=hotequil&show_icons=true&hide_border=false)
-
 ### :shipit: In my life, i like:
 
 - :computer: program in my free time to develop my personal study projects;
@@ -19,6 +17,8 @@ We are together in this magical world of programming, creating, working hard and
 ### :fire: I'd define the programming like this:
 
 ![Tenor GIF](https://media.tenor.com/images/cdda4d937ceb893c7c6ce3963d55f4b2/tenor.gif)
+
+![Hotequil's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=hotequil&show_icons=true&hide_border=false)
 
 > Ideas and only ideas can illuminate the darkness. (Ludwig von Mises)
 
