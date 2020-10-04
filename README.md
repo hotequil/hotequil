@@ -4,6 +4,8 @@
 
 We are together in this magical world of programming, creating, working hard and transforming other people's lives, through practical, objective and quick solutions.
 
+![Hotequil's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=hotequil&show_icons=true&hide_border=true)
+
 ### :shipit: In my life, i like:
 
 - :computer: program in my free time to develop my personal study projects;
