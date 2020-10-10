@@ -13,7 +13,7 @@ We are together in this magical world of programming, creating, working hard and
 - :bird: take care of my dear little bird;
 - :coffee: drink a lot of coffee;
 - :beers: drink beer;
-- :thought_balloon: do challenges in @codewars (https://www.codewars.com)
+- :thought_balloon: do challenges in Codewars (https://www.codewars.com)
 
 ### :fire: I'd define the programming like this:
 
@@ -25,6 +25,7 @@ We are together in this magical world of programming, creating, working hard and
 
 <!--
 **hotequil/hotequil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://gist.github.com/rxaviers/7360908
 
 Here are some ideas to get you started:
 
