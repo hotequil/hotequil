@@ -11,8 +11,9 @@ We are together in this magical world of programming, creating, working hard and
 - :books: read about programming, economics and politics;
 - :pencil2: write my daily thoughts;
 - :bird: take care of my dear little bird;
-- :coffee: drink a lot of coffee; @codewars
-- :beers: drink beer.
+- :coffee: drink a lot of coffee;
+- :beers: drink beer;
+- :thought_balloon: do challenges in @codewars (https://www.codewars.com)
 
 ### :fire: I'd define the programming like this:
 
