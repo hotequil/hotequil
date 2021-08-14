@@ -21,7 +21,7 @@ We are together in this magical world of programming, creating, working hard and
 
 ![Hotequil's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=hotequil&show_icons=true&hide_border=false)
 
-![Hotequil's GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs?username=hotequil&layout=compact)
+![Hotequil's GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hotequil&langs_count=1000&layout=compact)
 
 > Ideas and only ideas can illuminate the darkness. (Ludwig von Mises)
 
