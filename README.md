@@ -23,7 +23,7 @@ We are together in this magical world of programming, creating, working hard and
 
 ![Hotequil's GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hotequil&langs_count=1000&layout=compact)
 
-> Ideas and only ideas can illuminate the darkness. (Ludwig von Mises)
+> Ideas and only ideas can illuminate the darkness.
 
 <!--
 **hotequil/hotequil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
