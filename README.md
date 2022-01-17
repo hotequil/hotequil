@@ -24,6 +24,8 @@ We are together in this magical world of programming, creating, working hard and
 
 ![Hotequil's GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hotequil&langs_count=1000&layout=compact)
 
+![Hotequil's Kata badge](https://www.codewars.com/users/hotequil/badges/large)
+
 > Ideas and only ideas can illuminate the darkness.
 
 <!--
