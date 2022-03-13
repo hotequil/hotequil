@@ -1,14 +1,14 @@
 # Hello world :hand:!
 
-## :man: I'm a front-end developer and:
+## :man: I'm a front-end developer (for me, programming is like a leisure) and:
 
-We are together in this magical world of programming, creating, working hard and transforming other people's lives, through practical, objective and quick solutions. For me, programming is like a leisure.
+We are together in this magical world of programming, creating, working hard and transforming other people's lives, through practical, objective and quick solutions.
 
 ## :shipit: In my life, i like:
 
 - :computer: program in my free time to develop my personal study projects;
 - :minidisc: listening to music;
-- :books: read about programming, economics and politics;
+- :books: read about programming, economics, politics and others;
 - :pencil2: write my daily thoughts;
 - :bird: take care of my dear little bird;
 - :coffee: drink a lot of coffee;
@@ -17,13 +17,13 @@ We are together in this magical world of programming, creating, working hard and
 
 ## :fire: I'd define the programming like this:
 
-![Tenor GIF](https://media.tenor.com/images/cdda4d937ceb893c7c6ce3963d55f4b2/tenor.gif)
+![GIF of dog](https://media.tenor.com/images/cdda4d937ceb893c7c6ce3963d55f4b2/tenor.gif)
 
 ![Hotequil's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotequil&show_icons=true&hide_border=false)
 
 ![Hotequil's GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hotequil&langs_count=1000&layout=compact)
 
-![Hotequil's Kata badge](https://www.codewars.com/users/hotequil/badges/large)
+![Hotequil's kata badge](https://www.codewars.com/users/hotequil/badges/large)
 
 > Ideas and only ideas can illuminate the darkness.
 
