@@ -1,6 +1,6 @@
 # Hello world :hand:!
 
-## :man: I'm a front-end developer (for me, programming is like a leisure) and:
+## :relaxed: I'm a front-end developer (for me, programming is like a leisure) and:
 
 We are together in this magical world of programming, creating, working hard and transforming other people's lives, through practical, objective and quick solutions.
 
