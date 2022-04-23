@@ -20,6 +20,8 @@ We are together in this magical world of programming, creating, working hard and
 
 ![GIF of dog](https://media.tenor.com/images/cdda4d937ceb893c7c6ce3963d55f4b2/tenor.gif)
 
+## :bar_chart: My stats:
+
 ![Hotequil's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotequil&show_icons=true&hide_border=false)
 
 ![Hotequil's GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hotequil&langs_count=1000&layout=compact)
