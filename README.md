@@ -19,6 +19,7 @@ We are together in this magical world of programming, creating, working hard and
 ## :fire: I'd define the programming like this:
 
 ![GIF of dog](https://media.tenor.com/images/cdda4d937ceb893c7c6ce3963d55f4b2/tenor.gif)
+![GIF of cat](https://c.tenor.com/T2svBtpx5-YAAAAC/frajola-coffee.gif)
 
 ## :bar_chart: My stats:
 
