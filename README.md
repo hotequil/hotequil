@@ -1,4 +1,4 @@
-# Hello world :hand:!
+# Hello world :earth_americas:!
 
 ## :relaxed: I'm a front-end developer (for me, programming is like a leisure) and:
 
