@@ -28,6 +28,8 @@ We are together in this magical world of programming, creating, working hard and
 
 ![Hotequil's kata badge](https://www.codewars.com/users/hotequil/badges/large)
 
+## :bulb: Little phrase:
+
 > Ideas and only ideas can illuminate the darkness.
 
 <!--
