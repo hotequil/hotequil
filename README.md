@@ -4,7 +4,7 @@
 
 We are together in this magical world of programming, creating, working hard and transforming other people's lives, through practical, objective and quick solutions.
 
-## :shipit: In my life, i like:
+## :rocket: In my life, i like:
 
 - :computer: program in my free time to develop my personal study projects;
 - :minidisc: listening to music;
