@@ -12,7 +12,7 @@ We are together in this magical world of programming, creating, working hard and
 - :pencil2: write my daily thoughts;
 - :bird: take care of my dear little bird;
 - :coffee: drink a lot of coffee;
-- :beers: drink beer;
+- :beer: drink beer;
 - :thought_balloon: do challenges in Codewars (https://www.codewars.com);
 - :seedling: take care of my garden.
 
