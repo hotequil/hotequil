@@ -4,22 +4,6 @@
 
 We are together in this magical world of programming, creating, working hard and transforming other people's lives, through practical, objective and quick solutions.
 
-## :rocket: In my life, i like:
-
-- :computer: program in my free time to develop my personal study projects;
-- :minidisc: listening to music;
-- :books: read about programming, economics, politics and others;
-- :pencil2: write my daily thoughts;
-- :bird: take care of my dear little bird;
-- :coffee: drink a lot of coffee;
-- :beer: drink beer;
-- :thought_balloon: do challenges in Codewars (https://www.codewars.com);
-- :seedling: take care of my garden.
-
-## :fire: I'd define the programming like this:
-
-![GIF of dog](https://media.tenor.com/images/cdda4d937ceb893c7c6ce3963d55f4b2/tenor.gif)
-
 ## :bar_chart: My stats:
 
 ![Hotequil's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotequil&show_icons=true&hide_border=false)
