@@ -1,5 +1,3 @@
-![Old man](https://github.com/user-attachments/assets/e4f2fe93-10c3-4d72-95f4-4cb03d4290ef)
-
 ```typescript
 const neo3 = "NPxLDD7K8akwdgbiLRYm9krymrVfoMpmvb";
 const neoLegacy = "AL4MtpzhDzN95deZPtGgoCwGv82pfJeZES";
